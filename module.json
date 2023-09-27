@@ -1,0 +1,18 @@
+{
+    "id": "sponsors",
+    "name": "Sponsors",
+    "description": "Adds a widget with the sponsors list",
+    "keywords": [
+    ],
+    "version": "1.0.0",
+    "humhub": {
+        "minVersion": "1.4"
+    },
+	"authors": [
+		{
+		  "name": "Nikolai Shcherbin",
+		  "homepage": "https://wzm.me",
+		  "role": "Developer"
+		}
+	]
+}
